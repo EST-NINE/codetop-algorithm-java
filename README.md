@@ -6,7 +6,7 @@
 
 每一题都提供最常用的题解，保证面试中能够迅速写出最优解。
 
-掌握这 100 道，相信面试大部分已经可以完全不成问题了。
+掌握这 100 道，相信面试算法部分中大部分已经可以完全不成问题。
 
 ## 💡 学习建议
 
@@ -26,7 +26,7 @@
 
 ## 🔗 参考链接
 
-- 刷题网址 🔥: [https://codetop.cc/home](https://codetop.cc/home) （CodeTop 官网）
-- Fork 仓库 🌐: [https://github.com/gofish2020/algorithm-go](https://github.com/gofish2020/algorithm-go) （Fork 源仓库算法采用 `Golang` 实现）
-- LeetCode HOT100 🔱：https://leetcode.cn/studyplan/top-100-liked/ （HOT100 的考察频率不如 CodeTop 100，不过也可作为一个参考。而且大部分题目是重合的）
+- 🔥 刷题网址 : [https://codetop.cc/home](https://codetop.cc/home) （CodeTop 官网）
+- 🌐 Fork 源仓库 : [https://github.com/gofish2020/algorithm-go](https://github.com/gofish2020/algorithm-go) （Fork 源仓库中算法采用 `Golang` 实现）
+- 🔱 LeetCode HOT100 ：https://leetcode.cn/studyplan/top-100-liked/ （HOT100 的考察频率不如 CodeTop 100，不过也可作为一个参考。而且大部分题目是重合的）
 
